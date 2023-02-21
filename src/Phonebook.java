@@ -1,10 +1,3 @@
-/**
- * Phonebook class store name, phone number and address.
- * 
- * @author Tsz Fung Chan, Mitch Pepito, Joanna He
- * @version 2.0
- */
-
 import java.math.BigInteger;
 
 //Phonebook class for creating list of people
